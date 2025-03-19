@@ -1,16 +1,21 @@
 # Postman API Testing Results
 
-![Create](postman-screenshots/create.png)
+
 *createTodo*
 ---
+![Create](postman-screenshots/create.png)
 
-![getAll](postman-screenshots/getAll.png)
+
 *getAllTodos*
 ---
+![getAll](postman-screenshots/getAll.png)
 
-![update](postman-screenshots/update.png)
+
 *updateTodo*
 ---
+![update](postman-screenshots/update.png)
 
-![delete](postman-screenshots/delete.png)
+
 *deleteTodo*
+---
+![delete](postman-screenshots/delete.png)
