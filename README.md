@@ -1,7 +1,12 @@
 # API Documentation Testing Results
 
-## Todo
+Name: Joelliane Anggra
+Binusian ID: 2802466322
+Class: B4CC
 
+access the full api docs here: http://localhost:5000/todolist/api-docs
+
+## Todo
 
 */get_all*
 ---
