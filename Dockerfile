@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:18
 
 WORKDIR /app
 
@@ -11,3 +11,4 @@ COPY . .
 EXPOSE 5000
 
 CMD ["npm", "start"]
+RUN npm install --loglevel verbose

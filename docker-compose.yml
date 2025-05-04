@@ -8,6 +8,8 @@ services:
       - .env
     depends_on:
       - mongo
+    environment:
+      - CONNECTION_URL=${CONNECTION_URL} 
   mongo:
     image: mongo
     ports:
